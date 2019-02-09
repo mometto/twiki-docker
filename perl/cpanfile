@@ -1,4 +1,5 @@
 requires 'Algorithm::Diff';
+requires 'Authen::SASL';
 requires 'CGI', '>=3.18, !=3.37';
 requires 'CGI::Carp', '>=1.26';
 requires 'Config';
